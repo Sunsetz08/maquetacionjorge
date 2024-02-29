@@ -28,6 +28,7 @@ h1 {
 .azul {
     background-color: blue;
     height: 80vh;
+    padding: 0;
 }
 
 .rosado {
@@ -92,6 +93,7 @@ h1 {
 .caja14{
     background-color: rgb(88, 12, 85);
     height: 70vh;
+    padding: 0;
 }
 
 .caja15{
@@ -112,6 +114,7 @@ h1 {
 .caja18{
     background-color: rgb(204, 128, 14);
     height: 100vh;
+    padding: 0;
 }
 
 .caja19{
